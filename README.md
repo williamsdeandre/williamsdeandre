@@ -4,7 +4,7 @@
      Replace everything inside [ ] with your own info.
      ============================================================ -->
 
-# Hi, I'm [Deandre Antonio Williams] 👋
+# Hi, I'm Deandre Antonio Williams 👋
 
 <!-- One-liner about who you are. Keep it short and genuine. -->
 I'm a 3rd-year CS student at Angeles University Foundation, passionate about
